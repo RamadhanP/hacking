@@ -17,8 +17,8 @@ def menu():
 	 .##....##....##....##.....##.##....##..##...##.
 	 ..######.....##....##.....##.##.....##.##....##
 
->>CREATED BY: MUHAMMAD FAZRIANSYAH
->>STATUS : MENUNGGU KEPASTIAN DARI DIA
+>>CREATED BY: ADELIA ANANTA
+>>STATUS : HACKING - SOCIAL ENGINEERING
 
 >>Hacking tools<<
 >>>Hacking terus jadian nya kapan<<<
